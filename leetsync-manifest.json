@@ -1,0 +1,25 @@
+{
+  "entries": [
+    {
+      "slug": "binary-search",
+      "title": "Binary Search",
+      "questionId": "704",
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "folder": "array/0704-binary-search",
+      "languages": [
+        {
+          "lang": "plaintext",
+          "ext": "txt",
+          "fileName": "solution.plaintext.txt",
+          "updatedAt": "2026-11-08T04:51:15.036Z"
+        }
+      ],
+      "updatedAt": "2026-11-08T04:51:15.036Z"
+    }
+  ],
+  "badges": null
+}
