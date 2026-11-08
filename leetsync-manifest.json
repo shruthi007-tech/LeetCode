@@ -40,6 +40,27 @@
         }
       ],
       "updatedAt": "2026-11-08T04:57:49.345Z"
+    },
+    {
+      "slug": "search-a-2d-matrix",
+      "title": "Search a 2D Matrix",
+      "questionId": "74",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Matrix"
+      ],
+      "folder": "array/0074-search-a-2d-matrix",
+      "languages": [
+        {
+          "lang": "python3",
+          "ext": "py",
+          "fileName": "solution.python3.py",
+          "updatedAt": "2026-11-08T09:24:22.315Z"
+        }
+      ],
+      "updatedAt": "2026-11-08T09:24:22.316Z"
     }
   ],
   "badges": null
