@@ -61,6 +61,26 @@
         }
       ],
       "updatedAt": "2026-11-08T09:24:22.316Z"
+    },
+    {
+      "slug": "koko-eating-bananas",
+      "title": "Koko Eating Bananas",
+      "questionId": "875",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "folder": "array/0875-koko-eating-bananas",
+      "languages": [
+        {
+          "lang": "python3",
+          "ext": "py",
+          "fileName": "solution.python3.py",
+          "updatedAt": "2026-11-09T04:54:43.615Z"
+        }
+      ],
+      "updatedAt": "2026-11-09T04:54:43.615Z"
     }
   ],
   "badges": null
