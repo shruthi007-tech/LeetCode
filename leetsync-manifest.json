@@ -81,6 +81,26 @@
         }
       ],
       "updatedAt": "2026-11-09T04:54:43.615Z"
+    },
+    {
+      "slug": "find-minimum-in-rotated-sorted-array",
+      "title": "Find Minimum in Rotated Sorted Array",
+      "questionId": "153",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "folder": "array/0153-find-minimum-in-rotated-sorted-array",
+      "languages": [
+        {
+          "lang": "python3",
+          "ext": "py",
+          "fileName": "solution.python3.py",
+          "updatedAt": "2026-11-09T12:30:45.369Z"
+        }
+      ],
+      "updatedAt": "2026-11-09T12:30:45.371Z"
     }
   ],
   "badges": null
