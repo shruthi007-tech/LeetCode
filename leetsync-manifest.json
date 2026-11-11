@@ -101,6 +101,26 @@
         }
       ],
       "updatedAt": "2026-11-09T12:30:45.371Z"
+    },
+    {
+      "slug": "search-in-rotated-sorted-array",
+      "title": "Search in Rotated Sorted Array",
+      "questionId": "33",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "folder": "array/0033-search-in-rotated-sorted-array",
+      "languages": [
+        {
+          "lang": "python3",
+          "ext": "py",
+          "fileName": "solution.python3.py",
+          "updatedAt": "2026-11-11T15:11:45.514Z"
+        }
+      ],
+      "updatedAt": "2026-11-11T15:11:45.514Z"
     }
   ],
   "badges": null
