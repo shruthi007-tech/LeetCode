@@ -121,6 +121,27 @@
         }
       ],
       "updatedAt": "2026-11-11T15:11:45.514Z"
+    },
+    {
+      "slug": "contains-duplicate",
+      "title": "Contains Duplicate",
+      "questionId": "217",
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting"
+      ],
+      "folder": "array/0217-contains-duplicate",
+      "languages": [
+        {
+          "lang": "python3",
+          "ext": "py",
+          "fileName": "solution.python3.py",
+          "updatedAt": "2026-11-12T12:57:06.247Z"
+        }
+      ],
+      "updatedAt": "2026-11-12T12:57:06.248Z"
     }
   ],
   "badges": null
