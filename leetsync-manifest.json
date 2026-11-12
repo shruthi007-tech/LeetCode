@@ -142,6 +142,27 @@
         }
       ],
       "updatedAt": "2026-11-12T12:57:06.248Z"
+    },
+    {
+      "slug": "valid-anagram",
+      "title": "Valid Anagram",
+      "questionId": "242",
+      "difficulty": "Easy",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "folder": "hash-table/0242-valid-anagram",
+      "languages": [
+        {
+          "lang": "python3",
+          "ext": "py",
+          "fileName": "solution.python3.py",
+          "updatedAt": "2026-11-12T12:59:43.413Z"
+        }
+      ],
+      "updatedAt": "2026-11-12T12:59:43.414Z"
     }
   ],
   "badges": null

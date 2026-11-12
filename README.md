@@ -2,7 +2,7 @@
 
 Auto-synced by LeetSync.
 
-![Total Solved](https://img.shields.io/badge/Total%20Solved-7-blue) ![Easy](https://img.shields.io/badge/Easy-2-brightgreen) ![Medium](https://img.shields.io/badge/Medium-5-yellow) ![Hard](https://img.shields.io/badge/Hard-0-red)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-8-blue) ![Easy](https://img.shields.io/badge/Easy-3-brightgreen) ![Medium](https://img.shields.io/badge/Medium-5-yellow) ![Hard](https://img.shields.io/badge/Hard-0-red)
 
 ## By Category
 
@@ -31,6 +31,7 @@ Auto-synced by LeetSync.
 ### Hash Table
 
 - [217. Contains Duplicate](./array/0217-contains-duplicate/) `Easy` – python3
+- [242. Valid Anagram](./hash-table/0242-valid-anagram/) `Easy` – python3
 
 ### Matrix
 
@@ -39,6 +40,11 @@ Auto-synced by LeetSync.
 ### Sorting
 
 - [217. Contains Duplicate](./array/0217-contains-duplicate/) `Easy` – python3
+- [242. Valid Anagram](./hash-table/0242-valid-anagram/) `Easy` – python3
+
+### String
+
+- [242. Valid Anagram](./hash-table/0242-valid-anagram/) `Easy` – python3
 
 ### Two Pointers
 
@@ -46,6 +52,7 @@ Auto-synced by LeetSync.
 
 ## All Problems (most recent first)
 
+- [242. Valid Anagram](./hash-table/0242-valid-anagram/) `Easy` – python3
 - [217. Contains Duplicate](./array/0217-contains-duplicate/) `Easy` – python3
 - [33. Search in Rotated Sorted Array](./array/0033-search-in-rotated-sorted-array/) `Medium` – python3
 - [153. Find Minimum in Rotated Sorted Array](./array/0153-find-minimum-in-rotated-sorted-array/) `Medium` – python3
