@@ -163,6 +163,28 @@
         }
       ],
       "updatedAt": "2026-11-12T12:59:43.414Z"
+    },
+    {
+      "slug": "group-anagrams",
+      "title": "Group Anagrams",
+      "questionId": "49",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "folder": "array/0049-group-anagrams",
+      "languages": [
+        {
+          "lang": "python3",
+          "ext": "py",
+          "fileName": "solution.python3.py",
+          "updatedAt": "2026-11-13T10:00:49.317Z"
+        }
+      ],
+      "updatedAt": "2026-11-13T10:00:49.317Z"
     }
   ],
   "badges": null
