@@ -185,6 +185,26 @@
         }
       ],
       "updatedAt": "2026-11-13T10:00:49.317Z"
+    },
+    {
+      "slug": "two-sum",
+      "title": "Two Sum",
+      "questionId": "1",
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "folder": "array/0001-two-sum",
+      "languages": [
+        {
+          "lang": "python3",
+          "ext": "py",
+          "fileName": "solution.python3.py",
+          "updatedAt": "2026-11-14T16:12:17.078Z"
+        }
+      ],
+      "updatedAt": "2026-11-14T16:12:17.079Z"
     }
   ],
   "badges": null
