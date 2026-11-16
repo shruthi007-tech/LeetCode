@@ -205,6 +205,28 @@
         }
       ],
       "updatedAt": "2026-11-14T16:12:17.079Z"
+    },
+    {
+      "slug": "greatest-common-divisor-of-strings",
+      "title": "Greatest Common Divisor of Strings",
+      "questionId": "1071",
+      "difficulty": "Easy",
+      "topics": [
+        "Math",
+        "String",
+        "Euclidean Algorithm",
+        "Greatest Common Divisor"
+      ],
+      "folder": "math/1071-greatest-common-divisor-of-strings",
+      "languages": [
+        {
+          "lang": "python3",
+          "ext": "py",
+          "fileName": "solution.python3.py",
+          "updatedAt": "2026-11-16T15:12:18.681Z"
+        }
+      ],
+      "updatedAt": "2026-11-16T15:12:18.681Z"
     }
   ],
   "badges": null
