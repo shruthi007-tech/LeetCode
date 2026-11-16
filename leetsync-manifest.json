@@ -227,6 +227,32 @@
         }
       ],
       "updatedAt": "2026-11-16T15:12:18.681Z"
+    },
+    {
+      "slug": "top-k-frequent-elements",
+      "title": "Top K Frequent Elements",
+      "questionId": "347",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Divide and Conquer",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Bucket Sort",
+        "Counting",
+        "Quickselect"
+      ],
+      "folder": "array/0347-top-k-frequent-elements",
+      "languages": [
+        {
+          "lang": "python3",
+          "ext": "py",
+          "fileName": "solution.python3.py",
+          "updatedAt": "2026-11-16T15:16:26.370Z"
+        }
+      ],
+      "updatedAt": "2026-11-16T15:16:26.370Z"
     }
   ],
   "badges": null

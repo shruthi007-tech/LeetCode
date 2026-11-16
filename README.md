@@ -2,7 +2,7 @@
 
 Auto-synced by LeetSync.
 
-![Total Solved](https://img.shields.io/badge/Total%20Solved-11-blue) ![Easy](https://img.shields.io/badge/Easy-5-brightgreen) ![Medium](https://img.shields.io/badge/Medium-6-yellow) ![Hard](https://img.shields.io/badge/Hard-0-red)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-12-blue) ![Easy](https://img.shields.io/badge/Easy-5-brightgreen) ![Medium](https://img.shields.io/badge/Medium-7-yellow) ![Hard](https://img.shields.io/badge/Hard-0-red)
 
 ## By Category
 
@@ -15,6 +15,7 @@ Auto-synced by LeetSync.
 - [74. Search a 2D Matrix](./array/0074-search-a-2d-matrix/) `Medium` – python3
 - [153. Find Minimum in Rotated Sorted Array](./array/0153-find-minimum-in-rotated-sorted-array/) `Medium` – python3
 - [217. Contains Duplicate](./array/0217-contains-duplicate/) `Easy` – python3
+- [347. Top K Frequent Elements](./array/0347-top-k-frequent-elements/) `Medium` – python3
 - [704. Binary Search](./array/0704-binary-search/) `Easy` – plaintext
 - [875. Koko Eating Bananas](./array/0875-koko-eating-bananas/) `Medium` – python3
 
@@ -25,6 +26,18 @@ Auto-synced by LeetSync.
 - [153. Find Minimum in Rotated Sorted Array](./array/0153-find-minimum-in-rotated-sorted-array/) `Medium` – python3
 - [704. Binary Search](./array/0704-binary-search/) `Easy` – plaintext
 - [875. Koko Eating Bananas](./array/0875-koko-eating-bananas/) `Medium` – python3
+
+### Bucket Sort
+
+- [347. Top K Frequent Elements](./array/0347-top-k-frequent-elements/) `Medium` – python3
+
+### Counting
+
+- [347. Top K Frequent Elements](./array/0347-top-k-frequent-elements/) `Medium` – python3
+
+### Divide and Conquer
+
+- [347. Top K Frequent Elements](./array/0347-top-k-frequent-elements/) `Medium` – python3
 
 ### Euclidean Algorithm
 
@@ -44,6 +57,11 @@ Auto-synced by LeetSync.
 - [49. Group Anagrams](./array/0049-group-anagrams/) `Medium` – python3
 - [217. Contains Duplicate](./array/0217-contains-duplicate/) `Easy` – python3
 - [242. Valid Anagram](./hash-table/0242-valid-anagram/) `Easy` – python3
+- [347. Top K Frequent Elements](./array/0347-top-k-frequent-elements/) `Medium` – python3
+
+### Heap (Priority Queue)
+
+- [347. Top K Frequent Elements](./array/0347-top-k-frequent-elements/) `Medium` – python3
 
 ### Math
 
@@ -53,11 +71,16 @@ Auto-synced by LeetSync.
 
 - [74. Search a 2D Matrix](./array/0074-search-a-2d-matrix/) `Medium` – python3
 
+### Quickselect
+
+- [347. Top K Frequent Elements](./array/0347-top-k-frequent-elements/) `Medium` – python3
+
 ### Sorting
 
 - [49. Group Anagrams](./array/0049-group-anagrams/) `Medium` – python3
 - [217. Contains Duplicate](./array/0217-contains-duplicate/) `Easy` – python3
 - [242. Valid Anagram](./hash-table/0242-valid-anagram/) `Easy` – python3
+- [347. Top K Frequent Elements](./array/0347-top-k-frequent-elements/) `Medium` – python3
 
 ### String
 
@@ -71,6 +94,7 @@ Auto-synced by LeetSync.
 
 ## All Problems (most recent first)
 
+- [347. Top K Frequent Elements](./array/0347-top-k-frequent-elements/) `Medium` – python3
 - [1071. Greatest Common Divisor of Strings](./math/1071-greatest-common-divisor-of-strings/) `Easy` – python3
 - [1. Two Sum](./array/0001-two-sum/) `Easy` – python3
 - [49. Group Anagrams](./array/0049-group-anagrams/) `Medium` – python3
