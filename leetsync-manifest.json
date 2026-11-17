@@ -253,6 +253,26 @@
         }
       ],
       "updatedAt": "2026-11-16T15:16:26.370Z"
+    },
+    {
+      "slug": "move-zeroes",
+      "title": "Move Zeroes",
+      "questionId": "283",
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Two Pointers"
+      ],
+      "folder": "array/0283-move-zeroes",
+      "languages": [
+        {
+          "lang": "python3",
+          "ext": "py",
+          "fileName": "solution.python3.py",
+          "updatedAt": "2026-11-17T16:13:16.367Z"
+        }
+      ],
+      "updatedAt": "2026-11-17T16:13:16.410Z"
     }
   ],
   "badges": null
