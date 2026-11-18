@@ -2,7 +2,7 @@
 
 Auto-synced by LeetSync.
 
-![Total Solved](https://img.shields.io/badge/Total%20Solved-13-blue) ![Easy](https://img.shields.io/badge/Easy-6-brightgreen) ![Medium](https://img.shields.io/badge/Medium-7-yellow) ![Hard](https://img.shields.io/badge/Hard-0-red)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-14-blue) ![Easy](https://img.shields.io/badge/Easy-7-brightgreen) ![Medium](https://img.shields.io/badge/Medium-7-yellow) ![Hard](https://img.shields.io/badge/Hard-0-red)
 
 ## By Category
 
@@ -86,16 +86,19 @@ Auto-synced by LeetSync.
 ### String
 
 - [49. Group Anagrams](./array/0049-group-anagrams/) `Medium` – python3
+- [125. Valid Palindrome](./two-pointers/0125-valid-palindrome/) `Easy` – python3
 - [242. Valid Anagram](./hash-table/0242-valid-anagram/) `Easy` – python3
 - [1071. Greatest Common Divisor of Strings](./math/1071-greatest-common-divisor-of-strings/) `Easy` – python3
 
 ### Two Pointers
 
 - [11. Container With Most Water](./array/0011-container-with-most-water/) `Medium` – python3
+- [125. Valid Palindrome](./two-pointers/0125-valid-palindrome/) `Easy` – python3
 - [283. Move Zeroes](./array/0283-move-zeroes/) `Easy` – python3
 
 ## All Problems (most recent first)
 
+- [125. Valid Palindrome](./two-pointers/0125-valid-palindrome/) `Easy` – python3
 - [283. Move Zeroes](./array/0283-move-zeroes/) `Easy` – python3
 - [347. Top K Frequent Elements](./array/0347-top-k-frequent-elements/) `Medium` – python3
 - [1071. Greatest Common Divisor of Strings](./math/1071-greatest-common-divisor-of-strings/) `Easy` – python3

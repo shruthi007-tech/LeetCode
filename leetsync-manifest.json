@@ -273,6 +273,26 @@
         }
       ],
       "updatedAt": "2026-11-17T16:13:16.410Z"
+    },
+    {
+      "slug": "valid-palindrome",
+      "title": "Valid Palindrome",
+      "questionId": "125",
+      "difficulty": "Easy",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "folder": "two-pointers/0125-valid-palindrome",
+      "languages": [
+        {
+          "lang": "python3",
+          "ext": "py",
+          "fileName": "solution.python3.py",
+          "updatedAt": "2026-11-18T15:57:53.130Z"
+        }
+      ],
+      "updatedAt": "2026-11-18T15:57:53.130Z"
     }
   ],
   "badges": null
