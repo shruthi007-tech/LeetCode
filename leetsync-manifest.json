@@ -334,6 +334,25 @@
         }
       ],
       "updatedAt": "2026-11-21T16:40:48.365Z"
+    },
+    {
+      "slug": "kids-with-the-greatest-number-of-candies",
+      "title": "Kids With the Greatest Number of Candies",
+      "questionId": "1431",
+      "difficulty": "Easy",
+      "topics": [
+        "Array"
+      ],
+      "folder": "array/1431-kids-with-the-greatest-number-of-candies",
+      "languages": [
+        {
+          "lang": "python3",
+          "ext": "py",
+          "fileName": "solution.python3.py",
+          "updatedAt": "2026-11-22T18:24:41.585Z"
+        }
+      ],
+      "updatedAt": "2026-11-22T18:24:41.585Z"
     }
   ],
   "badges": null

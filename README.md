@@ -2,7 +2,7 @@
 
 Auto-synced by LeetSync.
 
-![Total Solved](https://img.shields.io/badge/Total%20Solved-16-blue) ![Easy](https://img.shields.io/badge/Easy-8-brightgreen) ![Medium](https://img.shields.io/badge/Medium-8-yellow) ![Hard](https://img.shields.io/badge/Hard-0-red)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-17-blue) ![Easy](https://img.shields.io/badge/Easy-9-brightgreen) ![Medium](https://img.shields.io/badge/Medium-8-yellow) ![Hard](https://img.shields.io/badge/Hard-0-red)
 
 ## By Category
 
@@ -21,6 +21,7 @@ Auto-synced by LeetSync.
 - [605. Can Place Flowers](./array/0605-can-place-flowers/) `Easy` – python3
 - [704. Binary Search](./array/0704-binary-search/) `Easy` – plaintext
 - [875. Koko Eating Bananas](./array/0875-koko-eating-bananas/) `Medium` – python3
+- [1431. Kids With the Greatest Number of Candies](./array/1431-kids-with-the-greatest-number-of-candies/) `Easy` – python3
 
 ### Binary Search
 
@@ -103,6 +104,7 @@ Auto-synced by LeetSync.
 
 ## All Problems (most recent first)
 
+- [1431. Kids With the Greatest Number of Candies](./array/1431-kids-with-the-greatest-number-of-candies/) `Easy` – python3
 - [605. Can Place Flowers](./array/0605-can-place-flowers/) `Easy` – python3
 - [167. Two Sum II - Input Array Is Sorted](./array/0167-two-sum-ii-input-array-is-sorted/) `Medium` – python3
 - [125. Valid Palindrome](./two-pointers/0125-valid-palindrome/) `Easy` – python3
