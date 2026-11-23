@@ -2,7 +2,7 @@
 
 Auto-synced by LeetSync.
 
-![Total Solved](https://img.shields.io/badge/Total%20Solved-17-blue) ![Easy](https://img.shields.io/badge/Easy-9-brightgreen) ![Medium](https://img.shields.io/badge/Medium-8-yellow) ![Hard](https://img.shields.io/badge/Hard-0-red)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-18-blue) ![Easy](https://img.shields.io/badge/Easy-10-brightgreen) ![Medium](https://img.shields.io/badge/Medium-8-yellow) ![Hard](https://img.shields.io/badge/Hard-0-red)
 
 ## By Category
 
@@ -93,6 +93,7 @@ Auto-synced by LeetSync.
 - [49. Group Anagrams](./array/0049-group-anagrams/) `Medium` – python3
 - [125. Valid Palindrome](./two-pointers/0125-valid-palindrome/) `Easy` – python3
 - [242. Valid Anagram](./hash-table/0242-valid-anagram/) `Easy` – python3
+- [345. Reverse Vowels of a String](./two-pointers/0345-reverse-vowels-of-a-string/) `Easy` – python3
 - [1071. Greatest Common Divisor of Strings](./math/1071-greatest-common-divisor-of-strings/) `Easy` – python3
 
 ### Two Pointers
@@ -101,9 +102,11 @@ Auto-synced by LeetSync.
 - [125. Valid Palindrome](./two-pointers/0125-valid-palindrome/) `Easy` – python3
 - [167. Two Sum II - Input Array Is Sorted](./array/0167-two-sum-ii-input-array-is-sorted/) `Medium` – python3
 - [283. Move Zeroes](./array/0283-move-zeroes/) `Easy` – python3
+- [345. Reverse Vowels of a String](./two-pointers/0345-reverse-vowels-of-a-string/) `Easy` – python3
 
 ## All Problems (most recent first)
 
+- [345. Reverse Vowels of a String](./two-pointers/0345-reverse-vowels-of-a-string/) `Easy` – python3
 - [1431. Kids With the Greatest Number of Candies](./array/1431-kids-with-the-greatest-number-of-candies/) `Easy` – python3
 - [605. Can Place Flowers](./array/0605-can-place-flowers/) `Easy` – python3
 - [167. Two Sum II - Input Array Is Sorted](./array/0167-two-sum-ii-input-array-is-sorted/) `Medium` – python3

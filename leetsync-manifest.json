@@ -353,6 +353,26 @@
         }
       ],
       "updatedAt": "2026-11-22T18:24:41.585Z"
+    },
+    {
+      "slug": "reverse-vowels-of-a-string",
+      "title": "Reverse Vowels of a String",
+      "questionId": "345",
+      "difficulty": "Easy",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "folder": "two-pointers/0345-reverse-vowels-of-a-string",
+      "languages": [
+        {
+          "lang": "python3",
+          "ext": "py",
+          "fileName": "solution.python3.py",
+          "updatedAt": "2026-11-23T15:13:06.812Z"
+        }
+      ],
+      "updatedAt": "2026-11-23T15:13:06.813Z"
     }
   ],
   "badges": null
